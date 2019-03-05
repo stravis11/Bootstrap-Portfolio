@@ -30,6 +30,10 @@ body {
     top: 70px;
 }
 
+.color-custom {
+    background: #E8EBEE;
+    color: #4aaaa5;
+}
 .button-custom {
     background:#4aaaa5;
     border: 0;
