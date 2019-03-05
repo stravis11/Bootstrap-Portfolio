@@ -37,6 +37,11 @@ body {
     background: #E8EBEE;
     color: #4aaaa5;
 }
+
+.color-custom2 {
+    color: #4aaaa5;
+    
+}
 .button-custom {
     background:#4aaaa5;
     border: 0;
